@@ -1,2 +1,3 @@
 This is a test repo.
-I will try to setup a dummy recipe website.
+I am trying to setup a dummy recipe website as part of the Odin Project.
+More info about The Odin Project: https://www.theodinproject.com/
